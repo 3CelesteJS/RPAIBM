@@ -1,2 +1,2 @@
 # RPAIBM
-IBM RPA Launcher
+IBM RPA Studio
